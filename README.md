@@ -2,8 +2,8 @@
 This is the place where I opensource stuff and break things :rofl:
 
 - 🔭 &nbsp;I’m currently working on something cool :wink:
-- 🌱 &nbsp;I’m currently learning Flutter, Go
-- 💬 &nbsp;Ask me about anything related to Visual Studio Code
+- 🌱 &nbsp;I’m currently learning Visual Studio Code
+- 💬 &nbsp;Ask me about anything related to TruckersMP & ETS2LA
 - 👨‍💻 &nbsp;Read more about my projects at [truckersmp.com](https://truckersmp.com/user/855852)
 - ⚡ &nbsp;Fun fact: I :heart: Steam Gaming (GamerTag: [Langston](https://steamcommunity.com/profiles/76561198094588447))
 
