@@ -3,9 +3,9 @@ This is the place where I opensource stuff and break things :rofl:
 
 - 🔭 &nbsp;I’m currently working on something cool :wink:
 - 🌱 &nbsp;I’m currently learning Flutter, Go
-- 💬 &nbsp;Ask me about anything related to Javascript/Typescript/Python or Angular/React/Express/Flask
+- 💬 &nbsp;Ask me about anything related to Visual Studio Code
 - 👨‍💻 &nbsp;Read more about my projects at [truckersmp.com](https://truckersmp.com/user/855852)
-- ⚡ &nbsp;Fun fact: I :heart: :dog:s and Steam Gaming (GamerTag: [Langston](https://steamcommunity.com/profiles/76561198094588447))
+- ⚡ &nbsp;Fun fact: I :heart: Steam Gaming (GamerTag: [Langston](https://steamcommunity.com/profiles/76561198094588447))
 
 📕 &nbsp;**Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
