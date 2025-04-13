@@ -18,7 +18,7 @@ This is the place where I opensource stuff and break things :rofl:
 
 🔗 &nbsp;**Connect with me**
 <p align="left">
-<a href="https://truckersmp.com/user/855852" target="blank"><img align="center" src="https://i.imgur.com/BnwcKAa.png" alt="Langston" height="30" width="40" /></a>
+<a href="https://truckersmp.com/user/855852" target="blank"><img align="center" src="https://s21.ax1x.com/2025/04/13/pEWVqVP.png" alt="Langston" height="30" width="40" /></a>
 
 ### ✨&nbsp; About Me
 
